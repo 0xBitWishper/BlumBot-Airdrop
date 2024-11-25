@@ -11,7 +11,7 @@ Automate the Blum Crypto game on your Telegram bot with Blum Bot! This Python to
 ## Requirements
 
 - Python 3.11.6 (recommended)
-- `termcolor` module 
+- `termcolor` module
 - `pyautogui` module
 - `pygetwindow` module
 - `pynput` module
@@ -27,39 +27,31 @@ Make sure you have Python 3.11.6 installed on your system. You can download it f
 
 1. **Clone the repository**
 
-    ```sh
-    git clone https://github.com/DarkSkull777/blum-bot.git
-    cd blum-bot
-    ```
+   ```sh
+   git clone https://github.com/0xBitWishper/BlumBot-Airdrop.git
+   cd blum-bot
+   ```
 
 2. **Install the required modules**
 
-    Install the necessary Python modules using `pip`:
+   Install the necessary Python modules using `pip`:
 
-    ```sh
-    pip install termcolor
-    pip install colorama
-    pip install pynput
-    pip install keyboard
-    pip install pyautogui
-    pip install pygetwindow
-    ```
+   ```sh
+   pip install termcolor
+   pip install colorama
+   pip install pynput
+   pip install keyboard
+   pip install pyautogui
+   pip install pygetwindow
+   ```
 
 3. **Run the script**
 
-    Execute the `blumbot.py` script:
+   Execute the `blumbot.py` script:
 
-    ```sh
-    python blumbot.py
-    ```
-## Download
-
-If you prefer a standalone executable version of Blum Bot that does not require installing Python or any dependencies, you can download `blumbot.exe` from the below:
-
-<a href="https://t.me/bravexploiter/10441">
-    <img src="https://raw.githubusercontent.com/DarkSkull777/blum-bot/main/images/images%20(4)-fotor-bg-remover-202406222099-picsay.png" alt="Download" width="165">
-</a>
-
+   ```sh
+   python blumbot.py
+   ```
 
 ## Usage
 
@@ -71,55 +63,40 @@ Contributions are welcome! Here's how you can contribute:
 
 1. **Fork the repository**
 
-    Click on the "Fork" button at the top right of this page to create a copy of this repository on your GitHub account.
+   Click on the "Fork" button at the top right of this page to create a copy of this repository on your GitHub account.
 
 2. **Clone your forked repository**
 
-    ```sh
-    git clone https://github.com/DarkSkull777/blum-bot.git
-    cd blum-bot
-    ```
+   ```sh
+   git clone https://github.com/0xBitWishper/BlumBot-Airdrop.git
+   ```
 
 3. **Create a new branch for your changes**
 
-    ```sh
-    git checkout -b my-new-feature
-    ```
+   ```sh
+   git checkout -b my-new-feature
+   ```
 
 4. **Make your changes**
 
-    Modify the code and add your new features or improvements.
+   Modify the code and add your new features or improvements.
 
 5. **Commit your changes**
 
-    ```sh
-    git add .
-    git commit -m "Note"
-    ```
+   ```sh
+   git add .
+   git commit -m "Note"
+   ```
 
 6. **Push to your branch**
 
-    ```sh
-    git push origin your-new-feature
-    ```
+   ```sh
+   git push origin your-new-feature
+   ```
 
 7. **Create a Pull Request**
 
-    Open a pull request from your forked repository to the original repository.
-
-### Suggestions and Stars
-
-If you have any suggestions or improvements, feel free to open an issue. If you like this repository and find it helpful, please give it a star ⭐!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or support, please open an issue or contact the repository owner on [<span style="font-size:1.5em;">Telegram</span>](https://t.me/XSkull7).
-
----
+   Open a pull request from your forked repository to the original repository.
 
 **Enjoying!**
 
