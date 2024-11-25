@@ -2,15 +2,15 @@
 
 <img src="image/0xBitBlum.jpg">
 
-Automate the Blum Crypto game on your Telegram bot with Blum Bot! This Python tool allows the game to run autonomously, utilizing the pynput and keyboard modules. Designed for Python 3.11.6, it's easy to set up and get started.
+Bot auto clicker untuk Airdrop Blum - Bot Python ini berjalan secara mandiri, memanfaatkan modul pynput dan keyboard. Dirancang untuk Python 3.11.6,
 
-## Features
+## Fitur
 
-- Automates the Blum Crypto game on Telegram.
-- Uses the `termcolor`,`pynput`, `pyautogui`, `pygetwindow` and `keyboard` modules for interaction.
-- Designed for Python 3.11.6.
+- Autoclick Blum Airdrop
+- Gunakan `termcolor`,`pynput`, `pyautogui`, `pygetwindow` and `keyboard`
+- Mengunakan Python 3.11.6.
 
-## Requirements
+## Persyaratan
 
 - Python 3.11.6 (recommended)
 - `termcolor` module
@@ -19,24 +19,21 @@ Automate the Blum Crypto game on your Telegram bot with Blum Bot! This Python to
 - `pynput` module
 - `keyboard` module
 
-## Installation
+## Instalasi
 
-### Prerequisites
+### Prasyarat
 
-Make sure you have Python 3.11.6 installed on your system. You can download it from the official [Python website](https://www.python.org/downloads/release/python-3116/).
+Pastikan Anda telah menginstal Python 3.11.6 di sistem Anda. Anda dapat mengunduhnya dari situs resmi[Python website](https://www.python.org/downloads/release/python-3116/).
 
 ### Steps
 
-1. **Clone the repository**
+1. **Duplikat repository**
 
-   ```sh
    git clone https://github.com/0xBitWishper/BlumBot-Airdrop.git
-   cd blum-bot
-   ```
 
-2. **Install the required modules**
+2. **Instal modul yang diperlukan**
 
-   Install the necessary Python modules using `pip`:
+   Instal modul Python yang diperlukan menggunakan `pip`:
 
    ```sh
    pip install termcolor
@@ -51,55 +48,4 @@ Make sure you have Python 3.11.6 installed on your system. You can download it f
 
    Execute the `blumbot.py` script:
 
-   ```sh
-   python blumbot.py
-   ```
-
-## Usage
-
-Once the script is running, it will automate the Blum Crypto game on your Telegram bot. Ensure your Telegram bot is properly set up and configured to work with the Blum Crypto game.
-
-## Contributing
-
-Contributions are welcome! Here's how you can contribute:
-
-1. **Fork the repository**
-
-   Click on the "Fork" button at the top right of this page to create a copy of this repository on your GitHub account.
-
-2. **Clone your forked repository**
-
-   ```sh
-   git clone https://github.com/0xBitWishper/BlumBot-Airdrop.git
-   ```
-
-3. **Create a new branch for your changes**
-
-   ```sh
-   git checkout -b my-new-feature
-   ```
-
-4. **Make your changes**
-
-   Modify the code and add your new features or improvements.
-
-5. **Commit your changes**
-
-   ```sh
-   git add .
-   git commit -m "Note"
-   ```
-
-6. **Push to your branch**
-
-   ```sh
-   git push origin your-new-feature
-   ```
-
-7. **Create a Pull Request**
-
-   Open a pull request from your forked repository to the original repository.
-
 **Enjoying!**
-
----
