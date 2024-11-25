@@ -23,7 +23,7 @@ Bot auto clicker untuk Airdrop Blum - Bot Python ini berjalan secara mandiri, me
 
 ### Prasyarat
 
-Pastikan Anda telah menginstal Python 3.11.6 di sistem Anda. Anda dapat mengunduhnya dari situs resmi[Python website](https://www.python.org/downloads/release/python-3116/).
+Pastikan Anda telah menginstal Python 3.11.6 di sistem Anda. Anda dapat mengunduhnya dari situs resmi[Python website] (https://www.python.org/downloads/release/python-3116/).
 
 ### Steps
 
