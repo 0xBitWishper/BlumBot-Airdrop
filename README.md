@@ -1,5 +1,7 @@
 # Blum Bot
 
+<img src="image/0xBitBlum.jpg">
+
 Automate the Blum Crypto game on your Telegram bot with Blum Bot! This Python tool allows the game to run autonomously, utilizing the pynput and keyboard modules. Designed for Python 3.11.6, it's easy to set up and get started.
 
 ## Features
@@ -101,17 +103,3 @@ Contributions are welcome! Here's how you can contribute:
 **Enjoying!**
 
 ---
-
-<details>
-<summary><strong>Table of Contents</strong></summary>
-
-1. [Features](#features)
-2. [Requirements](#requirements)
-3. [Installation](#installation)
-4. [Download](#Download)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
-
-</details>
